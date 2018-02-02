@@ -1,5 +1,5 @@
 <?php 
-// COPYRIGHT: RICARDO LANS..
+// COPYRIGHT: RICARDO LANS..,
 try {
     $db = new PDO("mysql:host=localhost;dbname=vuurwerkshop", "root", "hpye1362");
 
